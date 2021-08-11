@@ -7,7 +7,7 @@ Simple Custom ERC-20 Token , with Topup functionality implemented in Solidity
 - run : `truffle deploy --network development --reset` to deploy
 
 
-# To accesa
+# To access
 - use the metmask wallet extension to connect to the system on `locahost:8545`
 **OR**
-- use this
+[BoilerPlate Code for Basic-Custom-Wallet](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
