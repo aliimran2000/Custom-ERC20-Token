@@ -1,2 +1,4 @@
 # Custom-ERC20-Token
-Custom ERC-20 Token , with TopUp functionality 
+Simple Custom ERC-20 Token , with Topup functionality implemented in Solidity 
+
+#
