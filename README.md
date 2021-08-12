@@ -10,4 +10,4 @@ Simple Custom ERC-20 Token , with Topup functionality implemented in Solidity
 # To access
 - use the metmask wallet extension to connect to the system on `locahost:8545`
 **OR** Use My 
-[BoilerPlate Code for Basic-Custom-Wallet](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[BoilerPlate Code for Basic-Custom-Wallet](https://github.com/aliimran2000/Basic-Interactive-ERC20-Wallet)
